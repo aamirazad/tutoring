@@ -41,10 +41,7 @@ export const defaultContentPageLayout: PageLayout = {
 			folderClickBehavior: "collapse",
 		}),
 	],
-	right: [
-		Component.Graph(),
-		Component.DesktopOnly(Component.TableOfContents()),
-	],
+	right: [Component.DesktopOnly(Component.TableOfContents())],
 };
 
 // components for pages that display lists of pages  (e.g. tags or folders)
