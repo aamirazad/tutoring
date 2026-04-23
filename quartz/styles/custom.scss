@@ -12,6 +12,12 @@ body {
   column-gap: 1rem;
 }
 
+.protected {
+	filter: blur(3px);
+	interactivity: inert;
+	user-select: none;
+}
+
 .sidebar.left {
   border-right: 1px solid var(--lightgray);
 }

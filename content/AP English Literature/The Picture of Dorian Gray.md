@@ -5,16 +5,10 @@ publish: false
 date modified: 2026-04-20T10:19:00
 ---
 # The Picture of Dorian Gray
-<style>
-	.blurred {
-		filter: blur(3px);
-		user-select: none;
-	}
-</style>
 
 This content is protected! Email Aamir if you would like to access these notes.
 
-<div class="blurred">
+<div class="protected">
 ## Introduction
 
 ### Page xi
