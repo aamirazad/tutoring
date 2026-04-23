@@ -13,7 +13,11 @@ const config: QuartzConfig = {
 		enableSPA: true,
 		enablePopovers: true,
 		locale: "en-US",
-		analytics: null,
+		analytics: {
+			provider: "rybbit",
+			host: "https://analytics.aamirazad.com",
+			siteId: "f252b7df1404",
+		},
 		baseUrl: "teach.aamirazad.com",
 		ignorePatterns: ["private", "templates", ".obsidian"],
 		defaultDateType: "modified",
