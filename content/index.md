@@ -1,5 +1,5 @@
 ---
-name: Aamir's Notes
+title: Aamir's Notes
 ---
 # Aamir's Notes
 
