@@ -1,6 +1,6 @@
 ---
-date created: 2026-04-18T16:34:00
-date modified: 2026-04-18T17:01:00
+created: 2026-04-18T16:34:00
+modified: 2026-04-18T17:01:00
 course: "[[AP Physics]]"
 publish: true
 ---
@@ -88,7 +88,7 @@ $$
 
 ### Position, Velocity, Acceleration Relationship
 
- ![[Position velocity acceleration graphs.excalidraw|100%]]
+![[Position velocity acceleration graphs.svg|100%]]
 
 ### Freefall
 
@@ -117,7 +117,7 @@ Position and velocity are relative to the observer. Throwing an object upward co
 
 ### Horizontal Launch
 
-![[Horizontal Launch.excalidraw|center]]
+![[Horizontal Launch.svg|center]]
 
 > [!info] Finding maximum distance in the $x$ direction the ball travels.
 >
@@ -158,7 +158,7 @@ Position and velocity are relative to the observer. Throwing an object upward co
 
 ---
 
- ![[Two dimensions.excalidraw|40%|center]]
+ ![[Two dimensions.svg|40%|center]]
 
 > [!info] Finding the vertical velocity.
 >
