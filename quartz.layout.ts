@@ -36,8 +36,14 @@ export const defaultContentPageLayout: PageLayout = {
 			],
 		}),
 		Component.Explorer({
-			folderDefaultState: "open",
+			folderDefaultState: "collapsed",
 			folderClickBehavior: "collapse",
+			mapFn: (node) => {
+				if (node.displayName.endsWith("-protected")) {
+					node.displayName = node.displayName.slice(0, -"protected".length - 1);
+				}
+				return node;
+			},
 		}),
 	],
 	right: [Component.DesktopOnly(Component.TableOfContents())],
@@ -58,8 +64,15 @@ export const defaultListPageLayout: PageLayout = {
 			],
 		}),
 		Component.Explorer({
-			folderDefaultState: "open",
+			folderDefaultState: "collapsed",
+			openFolders: ["AP Physics"],
 			folderClickBehavior: "collapse",
+			mapFn: (node) => {
+				if (node.displayName.endsWith("-protected")) {
+					node.displayName = node.displayName.slice(0, -"protected".length - 1);
+				}
+				return node;
+			},
 		}),
 	],
 	right: [],

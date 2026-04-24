@@ -1,14 +1,15 @@
 ---
 date created: 2025-08-29T10:32:00
 course: "[[AP English Literature and Composition]]"
-publish: false
+publish: true
 date modified: 2026-04-20T10:19:00
 ---
 # The Picture of Dorian Gray
 
-This content is protected! Email Aamir if you would like to access these notes.
+This content is protected! Email Aamir to learn how to access these notes.
 
 <div class="protected">
+
 ## Introduction
 
 ### Page xi
