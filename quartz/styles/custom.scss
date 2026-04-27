@@ -166,9 +166,8 @@ body.qlb-open {
   position: relative;
   z-index: 1;
   min-width: 50vw;
-  min-height: 50dvh;
   max-width: min(97vw, 2000px);
-  max-height: 50dvh;
+  max-height: 80dvh;
   width: auto;
   height: auto;
   border-radius: var(--radius-soft);
