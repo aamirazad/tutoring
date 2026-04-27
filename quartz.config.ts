@@ -18,7 +18,7 @@ const config: QuartzConfig = {
 			host: "https://analytics.aamirazad.com",
 			siteId: "f252b7df1404",
 		},
-		baseUrl: "tutoring.aamirazad.com",
+		baseUrl: "notes.aamirazad.com",
 		ignorePatterns: ["private", "templates", ".obsidian"],
 		defaultDateType: "modified",
 		theme: {

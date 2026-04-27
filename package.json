@@ -1,15 +1,15 @@
 {
-	"name": "tutoring",
+	"name": "notes",
 	"description": "Aamir's Notes",
 	"private": true,
 	"version": "4.5.2",
 	"type": "module",
 	"author": "Aamir Azad",
 	"license": "MIT",
-	"homepage": "https://tutoring.aamirazad.com",
+	"homepage": "https://notes.aamirazad.com",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/aamirazad/tutoring"
+		"url": "https://github.com/aamirazad/notes"
 	},
 	"scripts": {
 		"quartz": "./quartz/bootstrap-cli.mjs",
