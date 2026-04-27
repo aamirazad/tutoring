@@ -636,8 +636,8 @@ export const ObsidianFlavoredMarkdown: QuartzTransformerPlugin<Partial<Options>>
                     frameborder: 0,
                     width: "600px",
                     src: playlistId
-                      ? `https://www.youtube.com/embed/${videoId}?list=${playlistId}`
-                      : `https://www.youtube.com/embed/${videoId}`,
+                      ? `https://www.youtube-nocookie.com/embed/${videoId}?list=${playlistId}`
+                      : `https://www.youtube-nocookie.com/embed/${videoId}`,
                   }
                 } else if (playlistId) {
                   // YouTube playlist only.
@@ -647,7 +647,7 @@ export const ObsidianFlavoredMarkdown: QuartzTransformerPlugin<Partial<Options>>
                     allow: "fullscreen",
                     frameborder: 0,
                     width: "600px",
-                    src: `https://www.youtube.com/embed/videoseries?list=${playlistId}`,
+                    src: `https://www.youtube-nocookie.com/embed/videoseries?list=${playlistId}`,
                   }
                 }
               }
