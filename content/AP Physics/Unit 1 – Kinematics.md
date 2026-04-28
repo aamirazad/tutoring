@@ -1,6 +1,6 @@
 ---
-created: 2026-04-18T16:34:00
-modified: 2026-04-18T17:01:00
+created: 2026-04-01T16:34:00
+date modified: 2026-04-18T17:01:00
 course: "[[AP Physics]]"
 publish: true
 ---
@@ -102,7 +102,7 @@ Or simply use the $v^2$[[#^dec08b| equation]]
 > Using the $v^2$ equation
 >
 > $$
-> 0^2 = 50^2 + 2(-10)(y-0)]
+> 0^2 = 50^2 + 2(-10)(y-0)
 > $$
 >
 > $$

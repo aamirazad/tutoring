@@ -1,6 +1,6 @@
 ---
 created: 2026-04-19T13:56:00
-modified: 2026-04-19T15:58:00
+date modified: 2026-04-19T15:58:00
 course: "[[AP Physics]]"
 publish: true
 ---

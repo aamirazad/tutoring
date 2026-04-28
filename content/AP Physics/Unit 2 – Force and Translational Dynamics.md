@@ -1,6 +1,6 @@
 ---
 created: 2026-04-18T17:01:00
-modified: 2026-04-18T22:44:00
+date modified: 2026-04-25T10:57:00
 course: "[[AP Physics]]"
 publish: true
 ---
@@ -9,9 +9,7 @@ publish: true
 ## 2.1 System and Center of Mass
 
 **Weight**: A force that gravitational field exerts on a mass. English unit is pounds.
-
 **Equilibrium**: A state in which the total (net) force on an object is zero. The object's acceleration is zero.
-
 **Inertia**: The property of an object that causes it to want to stay at rest or stay in motion. Depends on mass.
 
 ## 2.2 Forces and Free-Body Diagrams
@@ -19,9 +17,7 @@ publish: true
 ### Forces
 
 **Vector**: measurements that have magnitude and direction
-
 **Scalar**: measurements that only has a magnitude (mass, temp)
-
 Forces are interactions. A ball rolling on the floor has interactions with the air and floor.
 
 ### Normal Force
@@ -51,23 +47,21 @@ For every action, there is an equal and opposite reaction.
 > [!question] For each of these stacks of blocks, how does the magnitude of the force exerted by the top box on the bottom block compare with the magnitude of the force exerted by the bottom box on the top box?
 >
 > > [!example]- A. The two magnitudes are always equal in each of the stacks.
-> > 
+> >
 > > Correct. By Newton's Third Law, the downward force of the top box is equal to the upward force by the bottom box.
 >
 > > [!example]- B. The two magnitudes are always different in each of the stacks.
-> > 
+> >
 > > Incorrect. Try again.
 >
 > > [!example]- C. The two magnitudes are equal when the boxes have equal mass and different when the boxes have different masses.
-> > 
+> >
 > > Incorrect. Try again.
 >
 > > [!example]- D. The two magnitudes are equal when the elevator is moving at constant speed and different when it is accelerating
-> > 
+> >
 > > Incorrect. Try again.
 >
-
----
 
 ## 2.4 Newton's First Law
 
@@ -306,9 +300,9 @@ $a_c$ is the centripetal acceleration, $v$ is the tangential speed (in a straigh
 > $$
 
 > [!question]
-> 
+>
 > ![[Unit 3 – Work, Energy, and Power 2026-04-18 22.29.18.svg|30%|center]]
-> 
+>
 > > [!example]- Calculate the mass of the orbiting object
 > > $$
 > > \frac{Gm_{1}m_{2}}{r^{2}} = m_{2}a
