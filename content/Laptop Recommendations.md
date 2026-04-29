@@ -78,6 +78,6 @@ Another solid option in Windows laptop manufactures is HP. HP is known for their
 
 > A light, sleek machine with good battery life to support it
 
-![asus zenbook](https://files.aamirazad.com/cdn/asus-zenbook.webp)
+![asus zenbook](https://files.aamirazad.com/cdn/asus-zenbook.webp-1777469369.521186-lErRvUY5.webp)
 
 I have always liked the look of the Asus Zenbooks. There are a bunch of different options, the [Asus Zenbook 14](https://www.asus.com/us/laptops/for-home/zenbook/asus-zenbook-14-oled-um3406/) (\$900) linked is not the only one, there are many different types with different CPUs in them. The [Snapdragon versions](https://www.bestbuy.com/product/asus-zenbook-a14-14-2k-oled-laptop-snapdragon-x-plus-2025-16gb-memory-512gb-storage-copilot-pc-zabriskie-beige/JJGGLH86J4/sku/12137230?ref=212&loc=marketplace) I've seen get quite cheaper and their battery life is very close to MacBook level.
