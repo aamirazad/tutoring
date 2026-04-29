@@ -2,10 +2,11 @@
 date created: 2026-04-27T10:09:00
 date modified: 2026-04-28T10:39:00
 publish: true
+description: "A list of laptops that are all good choices for college use"
 ---
 # Laptop Recommendations
 
-Laptops are a complicated beast. There are so many different use cases and price points that result in different recommendations. The goal of this document is to guide you to choosing a laptop you will enjoy based on what you are looking for in a laptop. I start with Apple laptops to get them out of the way, but feel free to skip to the [[#Windows]] section.
+There are so many different use cases and price points that result in different recommendations. The goal of this document is to guide you to choosing a laptop you will enjoy based on what you are looking for in a laptop. I start with Apple laptops to get them out of the way, but feel free to skip to the [[#Windows]] section.
 
 ## MacOS
 
